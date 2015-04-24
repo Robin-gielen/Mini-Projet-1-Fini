@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=exprsIN
+comment0.target=java.lang.String[]\ stringExtracteur(java.lang.String)
+comment0.text=\r\n\ Exctractor\ of\ the\ string\ from\ the\ .txt\ file\r\n\ \r\n\ @pre\ un\ fichier\ .txt\ dans\ lequel\ l\ arbre\ est\ represente\ par\ une\ expression\ arithmetique\ bien\ construite\ avec\ un\ espace\ entre\ chaque\ element\ \r\n\ @post\ renvois\ un\ String\ representant\ l\ arbre\ par\ une\ expression\ arithmetique\ bien\ construite,\ sans\ aucun\ espace\r\n
+numComments=1

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pile()
+comment0.text=\r\n\ \r\n\ Constructeur\ de\ la\ classe\ pile\r\n\ \r\n
+comment1.params=n
+comment1.target=void\ push(Node)
+comment1.text=\r\n\ \r\n\ @pre\ n\ est\ un\ noeud\ existant\r\n\ @post\ place\ le\ noeud\ n\ en\ tete\ de\ pile\r\n
+comment2.params=
+comment2.target=Node\ pop()
+comment2.text=\r\n\ \r\n\ @pre\ /\r\n\ @post\ renvois\ et\ retire\ le\ premier\ noeud\ de\ la\ pile\r\n\ \r\n
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment3.text=\r\n\ \r\n\ @pre\ /\r\n\ @post\ /\ renvoie\ true\ si\ la\ pile\ est\ vide\ et\ false\ si\ il\ y\ a\ au\ moins\ un\ element\ dans\ la\ pile\r\n\ \r\n
+numComments=4

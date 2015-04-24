@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=untreatedLines
+comment0.target=TreeBuilder(java.lang.String)
+comment0.text=\r\n\r\n\ Constructeur\ de\ la\ classe\ Treebuilder\r\n\ \r\n
+comment1.params=
+comment1.target=exprTree.ExprIF\ build()
+comment1.text=\r\n\ @pre\ L'expression\ arithm\u00E9tique\ pass\u00E9e\ au\ constructeur\ est\r\n\ \ \ \ \ \ compl\u00E8tement\ parenth\u00E9s\u00E9e\ et\ bien\ form\u00E9e.\ Les\ \u00E9l\u00E9ments\r\n\ \ \ \ \ \ de\ l'expression\ sont\ s\u00E9par\u00E9s\ par\ un\ espace.\r\n\ @post\ renvoie\ un\ arbre\ repr\u00E9sentant\ l'expression\ arithm\u00E9tique\r\n\ \ \ \ \ \ \ pass\u00E9e\ au\ constructeur\r\n
+numComments=2

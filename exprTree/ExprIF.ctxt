@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ExprIF\ getReducedTree()
+comment0.text=\r\n\ Simplification\ de\ l'arbre.\r\n\r\n\ @pre\ l'arbre\ repr\u00E9sente\ une\ expression\ arithm\u00E9tique\ \r\n\ \ \ \ \ \ bien\ construite\r\n\ @post\ Si\ l'arbre\ contient\ au\ moins\ un\ op\u00E9rateur,\ \r\n\ \ \ \ \ \ \ l'arbre\ renvoy\u00E9\ est\ obtenu\ apr\u00E8s\ une\ simplification\ \r\n\ \ \ \ \ \ \ dans\ l'ordre\ d'un\ parcours\ postfixe\r\n\ \ \ \ \ \ \ Sinon,\ renvoit\ l'arbre\ original.\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ Conversion\ de\ l'arbre\ en\ un\ String.\r\n\r\n\ @pre\ l'arbre\ repr\u00E9sente\ une\ expression\ arithm\u00E9tique\ \r\n\ \ \ \ \ \ bien\ construite\r\n\ @post\ le\ String\ renvoy\u00E9\ est\ la\ repr\u00E9sentation\ \r\n\ \ \ \ \ \ \ compl\u00E8tement\ parenth\u00E9s\u00E9e\ de\ l'arbre\ \ \r\n
+numComments=2
